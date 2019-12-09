@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ActivityFragmentcommunication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidActivityLifecycleKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidApplicationPortraitmode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidAsyncTaskKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidButton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidCheckBox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidConstraintLayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidFragmentExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidFrameLayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidGlobalVariableKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidNotification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidRadioButton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidRelativeLayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidServices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidSpinner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidTableLayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidTextView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidToggleButton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidToolbarexample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidTooltips" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ExplicitIntentKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GithubSearchUsers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GoogleMapsAndroidKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ImplicitIntentExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IntentFilters" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IntentTypesImplicitAndExplicit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LinearLayoutKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyContactContentProviders" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ParcelableAndroidPassDataKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recyclerview example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recyclerview example kotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RetrofitAndroidExamplekotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQLiteAndroidExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ShareFragmentsViewModel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ShareFragmentsViewModelK" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SplashscreenandroidKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VolleyAndroidSimpleRequest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WebViewexample" vcs="Git" />
+  </component>
+</project>
